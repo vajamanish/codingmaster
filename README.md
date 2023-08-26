@@ -1,2 +1,2 @@
-# codingmaster
-codingmaster
+# pythoncode
+simple python code
